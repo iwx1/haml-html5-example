@@ -23,6 +23,8 @@ end
 gem 'jquery-rails'
 gem 'haml'
 gem 'haml-rails'
+gem 'haml-contrib'
+gem 'RedCloth'
 gem 'bootstrap-sass'
 
 # To use ActiveModel has_secure_password
