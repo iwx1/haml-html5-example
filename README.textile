@@ -1,4 +1,5 @@
 
 h1. Rails Application Example using HTML5 and haml
 
+Please refer to "the following blog post":http://blog.myitcv.org.uk/2013/03/10/rails-application-example-using-html5-and-haml.html for a full explanation of this repository.
 
