@@ -1,0 +1,4 @@
+
+h1. Rails Application Example using HTML5 and haml
+
+
